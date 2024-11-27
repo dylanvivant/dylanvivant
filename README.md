@@ -2,7 +2,7 @@
 
 🚀 About Me
 
-**I am a junior frontend developer.** 🧑‍💻
+**I am a full stack developer.** 🧑‍💻
 
 *I primarily develop websites. You can find all my projects here.*
 
