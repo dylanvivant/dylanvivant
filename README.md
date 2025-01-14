@@ -12,9 +12,6 @@ I only recently started in web development, so I am quite a new developer, yet I
 
 ***NEXT JS*** - ***REACT JS*** - ***VUE JS*** - ***PYTHON*** - ***LARAVEL***
 
-## 🔗 Links
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://www.makeitdifferently.com/)
-
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dylan-vivant/)
 
 <!--
