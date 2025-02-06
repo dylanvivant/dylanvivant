@@ -12,7 +12,6 @@ I only recently started in web development, so I am quite a new developer, yet I
 
 ***NEXT JS*** - ***VUE JS*** - ***PYTHON*** - ***LARAVEL*** - ***JAVA*** 
  
-[![linkedin]((https://www.linkedin.com/in/dylanvivant/))]
 
 <!--
 **dylanvivant/dylanvivant** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
