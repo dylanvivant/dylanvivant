@@ -10,9 +10,9 @@ I only recently started in web development, so I am quite a new developer, yet I
 
 ## 🛠 Skills
 
-***NEXT JS*** - ***REACT JS*** - ***VUE JS*** - ***PYTHON*** - ***LARAVEL***
-
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/dylan-vivant/](https://www.linkedin.com/in/dylanvivant/))
+***NEXT JS*** - ***VUE JS*** - ***PYTHON*** - ***LARAVEL*** - ***JAVA*** 
+ 
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]((https://www.linkedin.com/in/dylanvivant/))
 
 <!--
 **dylanvivant/dylanvivant** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
