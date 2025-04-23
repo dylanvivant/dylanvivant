@@ -2,7 +2,7 @@
 
 🚀 About Me
 
-**I am a full stack developer.** 🧑‍💻
+**I am a ia developer.** 🧑‍💻
 
 *I primarily develop websites. You can find all my projects here.*
 
@@ -10,7 +10,7 @@ I only recently started in web development, so I am quite a new developer, yet I
 
 ## 🛠 Skills
 
-***NEXT JS*** - ***VUE JS*** - ***PYTHON*** - ***LARAVEL*** - ***JAVA*** 
+***NEXT JS*** - ***VUE JS*** - ***PYTHON*** - ***JUPYTER NOTEBOOK*** - ***JAVA*** 
  
 
 <!--
