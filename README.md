@@ -38,7 +38,7 @@ While I'm committed to my current role at Oxyane, I'm always open to exciting si
 ## 📫 Contact
 Feel free to reach out for AI collaborations or side projects!
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)]([your-linkedin-link](https://www.linkedin.com/in/dylanvivant/))
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dylanvivant/)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:contact@dylanvivant.com)
 
 ---
